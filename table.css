@@ -1,0 +1,28 @@
+
+
+.col1 {
+    width: 450px;
+    background-color: lightblue;
+}
+.col2 {
+    background-color:lightgray;
+}
+
+tr td:first-child{
+    text-align: right;
+}
+.col3 {
+    background-color:lightblue;
+}
+caption {
+    caption-side: bottom;
+    font-size: 10pt;
+}
+
+table {
+    border-radius:5px;
+    border-spacing: 0px;
+}
+th {
+    border-bottom: white thick solid;
+}
